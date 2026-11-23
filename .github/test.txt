@@ -1,1 +1,3 @@
-If you can read this, the test didn't work :(
+If you can read this from a browser, the test didn't work :(
+
+If otherwise, it worked!!! :)
