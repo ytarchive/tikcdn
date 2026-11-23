@@ -1,0 +1,544 @@
+{
+  "id": "7707249771488070926",
+  "desc": "How glasses were built Base Model by Evanciao #engineering #Howitworks #science #animation #learnontiktok",
+  "createTime": "1794511800",
+  "scheduleTime": 0,
+  "video": {
+    "id": "7707249771488070926",
+    "height": 960,
+    "width": 540,
+    "duration": 118,
+    "ratio": "540p",
+    "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/owptqDI3NABGgNAcEnDCCsu1aSirVesimAgUfA~tplv-tiktokx-origin.image?dr=9636&x-expires=1795611600&x-signature=VSxksO6rYbprjTDmkD4ip7Msfn8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "originCover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oYIC1iqctB49DFBiIfAEFSAgihptOe58WbMAVu~tplv-tiktokx-origin.image?dr=9636&x-expires=1795611600&x-signature=JIGiLH1y2%2FpDzBWI2E%2FwcYYs4Cw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "dynamicCover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/owptqDI3NABGgNAcEnDCCsu1aSirVesimAgUfA~tplv-tiktokx-origin.image?dr=9636&x-expires=1795611600&x-signature=VSxksO6rYbprjTDmkD4ip7Msfn8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oUv1VqF59raECpndDAIf6yZf5K1gqFQDgtSBca/?a=1988&bti=ODszNWYuMDE6&&bt=206&ft=4KJMyMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=aTc7Zzs1ZzY8NjhoZzkzNEBpM3dvZXM5cnh0ZTMzZzgzNEBiXzAtXzJeXzIxYTIyMzI0YSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&expire=1795612761&l=20261123131723CA3AF95C67D7BD050E56&ply_type=2&policy=2&signature=8c558acbfa1af6c09626d4025e17fa76&tk=tt_chain_token&btag=e00090000",
+    "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c001-tx/o4HftiMRAvWVnB59EOpD8cDFPViCeqGSgQB1It/?a=1988&bti=ODszNWYuMDE6&&bt=485&ft=4KJMyMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=aGQ4NTs1ODxkOGhoNDRmPEBpM3dvZXM5cnh0ZTMzZzgzNEBgNF8xMjViXjMxNTRhMGEwYSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&expire=1795612761&l=20261123131723CA3AF95C67D7BD050E56&ply_type=2&policy=2&signature=7b4d4d46e172dd9a1a1082535d130e7e&tk=tt_chain_token&btag=e00090000",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": "",
+    "bitrate": 211282,
+    "encodedType": "normal",
+    "format": "mp4",
+    "videoQuality": "lowest",
+    "encodeUserTag": "",
+    "codecType": "h264",
+    "definition": "540p",
+    "subtitleInfos": [
+      {
+        "UrlExpire": "1795612761",
+        "Size": "2816",
+        "LanguageID": "2",
+        "LanguageCodeName": "eng-US",
+        "Url": "https://v16m-webapp.tiktokcdn-us.com/589bc16702df360a202941d32e58f2bf/6b06e059/video/tos/useast5/tos-useast5-v-0068-tx/a5d82a9b45de44febc634660cef2dd7c/?a=1988&bti=ODszNWYuMDE6&&bt=994&ft=4KLMeMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=M3dvZXM5cnh0ZTMzZzgzNEBpM3dvZXM5cnh0ZTMzZzgzNEA0YTViMmRjYG5hLS1kLy9zYSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&l=20261123131723CA3AF95C67D7BD050E56&btag=e00050000",
+        "Format": "webvtt",
+        "Version": "1:big_caption",
+        "Source": "ASR"
+      }
+    ],
+    "zoomCover": {
+      "240": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/owptqDI3NABGgNAcEnDCCsu1aSirVesimAgUfA~tplv-photomode-zoomcover:240:240.jpeg?dr=9616&x-expires=1795611600&x-signature=eyd7PE3zUPqFQgQD5y9%2FDTuL91E%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "480": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/owptqDI3NABGgNAcEnDCCsu1aSirVesimAgUfA~tplv-photomode-zoomcover:480:480.jpeg?dr=9616&x-expires=1795611600&x-signature=CHBkFY9GJeswLgx0CIZBUyBDubA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "720": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/owptqDI3NABGgNAcEnDCCsu1aSirVesimAgUfA~tplv-photomode-zoomcover:720:720.jpeg?dr=9616&x-expires=1795611600&x-signature=2gMlfdEts2GJZwBk%2B6HdPEabDlM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "960": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/owptqDI3NABGgNAcEnDCCsu1aSirVesimAgUfA~tplv-photomode-zoomcover:960:960.jpeg?dr=9616&x-expires=1795611600&x-signature=Fge%2Frbwo6r%2BwL87TXYsXQCqOMJs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1"
+    },
+    "volumeInfo": {
+      "Loudness": -15,
+      "Peak": 0.85114
+    },
+    "bitrateInfo": [
+      {
+        "Bitrate": 211282,
+        "QualityType": 25,
+        "BitrateFPS": 30,
+        "GearName": "lowest_540_0",
+        "PlayAddr": {
+          "DataSize": "3140370",
+          "Width": 540,
+          "Height": 960,
+          "Uri": "v12025gd0000dbqqcufog65peb8ldt70",
+          "UrlList": [
+            "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oUv1VqF59raECpndDAIf6yZf5K1gqFQDgtSBca/?a=1988&bti=ODszNWYuMDE6&&bt=206&ft=4KJMyMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=aTc7Zzs1ZzY8NjhoZzkzNEBpM3dvZXM5cnh0ZTMzZzgzNEBiXzAtXzJeXzIxYTIyMzI0YSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&expire=1795612761&l=20261123131723CA3AF95C67D7BD050E56&ply_type=2&policy=2&signature=8c558acbfa1af6c09626d4025e17fa76&tk=tt_chain_token&btag=e00090000",
+            "https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oUv1VqF59raECpndDAIf6yZf5K1gqFQDgtSBca/?a=1988&bti=ODszNWYuMDE6&&bt=206&ft=4KJMyMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=aTc7Zzs1ZzY8NjhoZzkzNEBpM3dvZXM5cnh0ZTMzZzgzNEBiXzAtXzJeXzIxYTIyMzI0YSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&expire=1795612761&l=20261123131723CA3AF95C67D7BD050E56&ply_type=2&policy=2&signature=8c558acbfa1af6c09626d4025e17fa76&tk=tt_chain_token&btag=e00090000",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=7150665d5ed54359b3ad52b80d38b4ef&is_play_url=1&item_id=7707249771488070926&line=0&ply_type=2&pt=dGlrdG9rLndlYmFyY2guZ2F0ZXdheSYvQHZpb2xldHNsZXNzb25zL3ZpZGVvLzc3MDcyNDk3NzE0ODgwNzA5MjYmMjAyNjExMjMxMzE3MjNDQTNBRjk1QzY3RDdCRDA1MEU1NiYxNzk1NDM5ODQzJjIyZTg1OWE2MWVjZA&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmNhNjY5NTE2NzBkMmRhNDk2NTUxMTA1OTk2MjI3ZDk0&tk=tt_chain_token&video_id=v12025gd0000dbqqcufog65peb8ldt70"
+          ],
+          "UrlKey": "v12025gd0000dbqqcufog65peb8ldt70_h264_540p_211282",
+          "FileHash": "2bca36072f2f5817820d921f0a855aa2",
+          "FileCs": "c:0-98888-5dc5"
+        },
+        "CodecType": "h264",
+        "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 86.436, \"v960\": 89.311, \"v864\": 92.17, \"v720\": 93.053}, \"ori\": {\"v1080\": 75.681, \"v960\": 78.002, \"v864\": 82.374, \"v720\": 84.112}}}",
+        "Format": "mp4",
+        "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 139350}, {\\\"time\\\": 2, \\\"offset\\\": 172999}, {\\\"time\\\": 3, \\\"offset\\\": 191653}, {\\\"time\\\": 4, \\\"offset\\\": 234221}, {\\\"time\\\": 5, \\\"offset\\\": 280205}, {\\\"time\\\": 10, \\\"offset\\\": 433590}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 86.436, \\\"v960\\\": 89.311, \\\"v864\\\": 92.17, \\\"v720\\\": 93.053}, \\\"ori\\\": {\\\"v1080\\\": 75.681, \\\"v960\\\": 78.002, \\\"v864\\\": 82.374, \\\"v720\\\": 84.112}}}\",\"ufq\":\"{\\\"enh\\\":92.552,\\\"playback\\\":{\\\"ori\\\":74.563,\\\"srv1\\\":82.548},\\\"src\\\":92.552,\\\"trans\\\":74.563,\\\"version\\\":\\\"v1.1\\\"}\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"25b3faebdda74a9e438e851988a6efcc\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":32044}"
+      },
+      {
+        "Bitrate": 166469,
+        "QualityType": 28,
+        "BitrateFPS": 30,
+        "GearName": "adapt_540_1",
+        "PlayAddr": {
+          "DataSize": "2474300",
+          "Width": 540,
+          "Height": 960,
+          "Uri": "v12025gd0000dbqqcufog65peb8ldt70",
+          "UrlList": [
+            "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c002-tx/ogN1VqCceDtiCqajDAEX95Mf8FhgYiIBQWSBOt/?a=1988&bti=ODszNWYuMDE6&&bt=162&ft=4KJMyMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=Zjs4Njg8OTs1Z2c7O2c7OUBpM3dvZXM5cnh0ZTMzZzgzNEBiMF5fYV5eNS8xLl5iXzNhYSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&expire=1795612761&l=20261123131723CA3AF95C67D7BD050E56&ply_type=2&policy=2&signature=c6384e34ab432dfcefa4ce87a958d09e&tk=tt_chain_token&btag=e00090000",
+            "https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c002-tx/ogN1VqCceDtiCqajDAEX95Mf8FhgYiIBQWSBOt/?a=1988&bti=ODszNWYuMDE6&&bt=162&ft=4KJMyMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=Zjs4Njg8OTs1Z2c7O2c7OUBpM3dvZXM5cnh0ZTMzZzgzNEBiMF5fYV5eNS8xLl5iXzNhYSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&expire=1795612761&l=20261123131723CA3AF95C67D7BD050E56&ply_type=2&policy=2&signature=c6384e34ab432dfcefa4ce87a958d09e&tk=tt_chain_token&btag=e00090000",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=d668bde8a81d4d2288a6a9d5b3a538ec&is_play_url=1&item_id=7707249771488070926&line=0&ply_type=2&pt=dGlrdG9rLndlYmFyY2guZ2F0ZXdheSYvQHZpb2xldHNsZXNzb25zL3ZpZGVvLzc3MDcyNDk3NzE0ODgwNzA5MjYmMjAyNjExMjMxMzE3MjNDQTNBRjk1QzY3RDdCRDA1MEU1NiYxNzk1NDM5ODQzJjIyZTg1OWE2MWVjZA&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjIyYmUwOTU3ZmMyY2FiZTlhZDI5OTNmMjYwYjNiMTdj&tk=tt_chain_token&video_id=v12025gd0000dbqqcufog65peb8ldt70"
+          ],
+          "UrlKey": "v12025gd0000dbqqcufog65peb8ldt70_bytevc1_540p_166469",
+          "FileHash": "422028d9065778e1f0851b05668ef1fd",
+          "FileCs": "c:0-99496-b967"
+        },
+        "CodecType": "h265_hvc1",
+        "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 96.352, \"v960\": 97.791, \"v864\": 98.553, \"v720\": 99.228}, \"ori\": {\"v1080\": 84.071, \"v960\": 87.267, \"v864\": 89.537, \"v720\": 91.639}}}",
+        "Format": "mp4",
+        "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 147156}, {\\\"time\\\": 2, \\\"offset\\\": 167009}, {\\\"time\\\": 3, \\\"offset\\\": 198644}, {\\\"time\\\": 4, \\\"offset\\\": 224082}, {\\\"time\\\": 5, \\\"offset\\\": 273012}, {\\\"time\\\": 10, \\\"offset\\\": 387370}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 96.352, \\\"v960\\\": 97.791, \\\"v864\\\": 98.553, \\\"v720\\\": 99.228}, \\\"ori\\\": {\\\"v1080\\\": 84.071, \\\"v960\\\": 87.267, \\\"v864\\\": 89.537, \\\"v720\\\": 91.639}}}\",\"ufq\":\"{\\\"enh\\\":92.552,\\\"playback\\\":{\\\"ori\\\":80.855,\\\"srv1\\\":93.136},\\\"src\\\":92.552,\\\"trans\\\":80.855,\\\"version\\\":\\\"v1.2\\\"}\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"50de8d0b56f9e7a37279a3ac7cc91f79\",\"dec_info\":\"\",\"gearvqm\":\"{\\\"v3.0\\\": {\\\"ori\\\": 94.001, \\\"sr20\\\": 102.745}}\",\"audio_bit_rate\":32044,\"ps_info\":\"{\\\"vps\\\": \\\"AQwC//8BYAAAAwAAAwAAAwAAAwB4AACIJElgSA==\\\", \\\"sps\\\": \\\"AQMBYAAAAwAAAwAAAwAAAwB4AACgBEIA8HfliCRJcklEEzwhERERERGEfMTzl/v/r/Nn8v/r/Mofkv9/9f5s/l/9f4zhAIOaAgAAAwACAAADADwQ\\\", \\\"pps\\\": \\\"AcElPAiQ\\\"}\",\"vq_enhance\":\"128\"}"
+      }
+    ],
+    "size": "3140370",
+    "VQScore": "74.58",
+    "claInfo": {
+      "hasOriginalAudio": false,
+      "enableAutoCaption": true,
+      "originalLanguageInfo": {
+        "language": "eng-US",
+        "languageID": "2",
+        "languageCode": "en",
+        "canTranslateRealTimeNoCheck": true
+      },
+      "captionInfos": [
+        {
+          "language": "eng-US",
+          "languageID": "2",
+          "url": "https://v16m-webapp.tiktokcdn-us.com/589bc16702df360a202941d32e58f2bf/6b06e059/video/tos/useast5/tos-useast5-v-0068-tx/a5d82a9b45de44febc634660cef2dd7c/?a=1988&bti=ODszNWYuMDE6&&bt=994&ft=4KLMeMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=M3dvZXM5cnh0ZTMzZzgzNEBpM3dvZXM5cnh0ZTMzZzgzNEA0YTViMmRjYG5hLS1kLy9zYSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&l=20261123131723CA3AF95C67D7BD050E56&btag=e00050000",
+          "expire": "1795612761",
+          "captionFormat": "webvtt",
+          "isAutoGen": true,
+          "subID": "-649634493",
+          "claSubtitleID": "7707383844860807944",
+          "languageCode": "en",
+          "isOriginalCaption": true,
+          "urlList": [
+            "https://v16m-webapp.tiktokcdn-us.com/589bc16702df360a202941d32e58f2bf/6b06e059/video/tos/useast5/tos-useast5-v-0068-tx/a5d82a9b45de44febc634660cef2dd7c/?a=1988&bti=ODszNWYuMDE6&&bt=994&ft=4KLMeMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=M3dvZXM5cnh0ZTMzZzgzNEBpM3dvZXM5cnh0ZTMzZzgzNEA0YTViMmRjYG5hLS1kLy9zYSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&l=20261123131723CA3AF95C67D7BD050E56&btag=e00050000",
+            "https://v16m-webapp.tiktokcdn-us.com/589bc16702df360a202941d32e58f2bf/6b06e059/video/tos/useast5/tos-useast5-v-0068-tx/a5d82a9b45de44febc634660cef2dd7c/?a=1988&bti=ODszNWYuMDE6&&bt=994&ft=4KLMeMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=M3dvZXM5cnh0ZTMzZzgzNEBpM3dvZXM5cnh0ZTMzZzgzNEA0YTViMmRjYG5hLS1kLy9zYSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&l=20261123131723CA3AF95C67D7BD050E56&btag=e00050000",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&format=webvtt&is_play_url=1&language=eng-US&line=0&pt=dGlrdG9rLndlYmFyY2guZ2F0ZXdheSYvQHZpb2xldHNsZXNzb25zL3ZpZGVvLzc3MDcyNDk3NzE0ODgwNzA5MjYmMjAyNjExMjMxMzE3MjNDQTNBRjk1QzY3RDdCRDA1MEU1NiYxNzk1NDM5ODQzJjIyZTg1OWE2MWVjZA&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjk4NTc0NmU5ZjkxOGM5ZTQ5MzYyYWRiMzEzOGM4YzU1&source=SmartPlayerSubtitleRedirect&version=1%3Abig_caption&video_id=v12025gd0000dbqqcufog65peb8ldt70"
+          ],
+          "variant": "big_caption",
+          "subtitleType": "1",
+          "translationType": "0"
+        }
+      ],
+      "captionsType": "1",
+      "noCaptionReason": null
+    },
+    "videoID": "v12025gd0000dbqqcufog65peb8ldt70",
+    "PlayAddrStruct": {
+      "DataSize": "3140370",
+      "Width": 540,
+      "Height": 960,
+      "Uri": "v12025gd0000dbqqcufog65peb8ldt70",
+      "UrlList": [
+        "https://v16-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oUv1VqF59raECpndDAIf6yZf5K1gqFQDgtSBca/?a=1988&bti=ODszNWYuMDE6&&bt=206&ft=4KJMyMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=aTc7Zzs1ZzY8NjhoZzkzNEBpM3dvZXM5cnh0ZTMzZzgzNEBiXzAtXzJeXzIxYTIyMzI0YSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&expire=1795612761&l=20261123131723CA3AF95C67D7BD050E56&ply_type=2&policy=2&signature=8c558acbfa1af6c09626d4025e17fa76&tk=tt_chain_token&btag=e00090000",
+        "https://v19-webapp-prime.us.tiktok.com/video/tos/useast5/tos-useast5-ve-0068c004-tx/oUv1VqF59raECpndDAIf6yZf5K1gqFQDgtSBca/?a=1988&bti=ODszNWYuMDE6&&bt=206&ft=4KJMyMzm8Zmo0TtnFC4jVxcWdpWrKsd.&mime_type=video_mp4&rc=aTc7Zzs1ZzY8NjhoZzkzNEBpM3dvZXM5cnh0ZTMzZzgzNEBiXzAtXzJeXzIxYTIyMzI0YSM0YTViMmRjYG5hLS1kLy9zcw%3D%3D&expire=1795612761&l=20261123131723CA3AF95C67D7BD050E56&ply_type=2&policy=2&signature=8c558acbfa1af6c09626d4025e17fa76&tk=tt_chain_token&btag=e00090000",
+        "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=7150665d5ed54359b3ad52b80d38b4ef&is_play_url=1&item_id=7707249771488070926&line=0&ply_type=2&pt=dGlrdG9rLndlYmFyY2guZ2F0ZXdheSYvQHZpb2xldHNsZXNzb25zL3ZpZGVvLzc3MDcyNDk3NzE0ODgwNzA5MjYmMjAyNjExMjMxMzE3MjNDQTNBRjk1QzY3RDdCRDA1MEU1NiYxNzk1NDM5ODQzJjIyZTg1OWE2MWVjZA&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmNhNjY5NTE2NzBkMmRhNDk2NTUxMTA1OTk2MjI3ZDk0&tk=tt_chain_token&video_id=v12025gd0000dbqqcufog65peb8ldt70"
+      ],
+      "UrlKey": "v12025gd0000dbqqcufog65peb8ldt70_h264_540p_211282",
+      "FileHash": "2bca36072f2f5817820d921f0a855aa2",
+      "FileCs": "c:0-98888-5dc5"
+    }
+  },
+  "author": {
+    "id": "7701041780742210573",
+    "shortId": "",
+    "uniqueId": "violetslessons",
+    "nickname": "Violet",
+    "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d74f5bfd6e1eb7c5aa25894e2379a8e0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=09be96c7&x-expires=1795611600&x-signature=N8fak0yLJUm%2F6XdKzcz9l76Ht%2Fk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d74f5bfd6e1eb7c5aa25894e2379a8e0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=37e7de86&x-expires=1795611600&x-signature=fkd95xiYwR2yVPIy3OwptHCTqu8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d74f5bfd6e1eb7c5aa25894e2379a8e0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=c7b5811e&x-expires=1795611600&x-signature=DRVWW0ljMmBMFjGIa%2BFGHzBfKz8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "signature": "Learn with Violet 🍎📝\nBase Model by Evanciao on Youtube!",
+    "createTime": 1793038686,
+    "verified": false,
+    "secUid": "MS4wLjABAAAAPbsbL7LRpWJozLbqs-6jPBFoX2SWS0eY8h5uKPyTlC6IIH4cI0IRUEHPEhFCr8sk",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 0,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false,
+    "UserStoryStatus": 0,
+    "shortDramaCreator": {}
+  },
+  "music": {
+    "id": "7707249864727350030",
+    "title": "original sound - Violet",
+    "playUrl": "https://v16m.tiktokcdn-us.com/ddaaebf7f90c8c3d10995b5d81d874bd/6b0491b9/video/tos/useast5/tos-useast5-v-27dcd7-tx/oIRvGI6guM4F0QUL2vBmLAhiBvyWalsKiKaC4/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7ThFCJpVXq8Zmo&mime_type=audio_mpeg&rc=NTRlNzVnOzVmZWU7OmhkZ0BpamQ8NHA5cnR0ZTMzZzU8NEAxNGJhMjJjXzMxLmE1Ll9fYSMyaGprMmRrYW5hLS1kMS9zcw%3D%3D&vvpl=1&l=20261123131723CA3AF95C67D7BD050E56&btag=e00090000",
+    "coverLarge": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d74f5bfd6e1eb7c5aa25894e2379a8e0~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=09be96c7&x-expires=1795611600&x-signature=N8fak0yLJUm%2F6XdKzcz9l76Ht%2Fk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d74f5bfd6e1eb7c5aa25894e2379a8e0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=37e7de86&x-expires=1795611600&x-signature=fkd95xiYwR2yVPIy3OwptHCTqu8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d74f5bfd6e1eb7c5aa25894e2379a8e0~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=c7b5811e&x-expires=1795611600&x-signature=DRVWW0ljMmBMFjGIa%2BFGHzBfKz8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "authorName": "Violet",
+    "original": true,
+    "private": false,
+    "duration": 118,
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 118.936,
+      "preciseShootDuration": 118.936,
+      "preciseAuditionDuration": 118.936,
+      "preciseVideoDuration": 118.936
+    },
+    "isCopyrighted": false,
+    "tt2dsp": {
+      "tt_to_dsp_song_infos": []
+    },
+    "is_unlimited_music": false,
+    "is_commerce_music": true,
+    "shoot_duration": 118
+  },
+  "challenges": [
+    {
+      "id": "761947",
+      "title": "engineering",
+      "desc": "E is for Engineering",
+      "profileLarger": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/dd307fee7c13b8c07870881f032b5969~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=2aNktw8ETVFyV6%2FPPE95Y7Gr9EI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileMedium": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/dd307fee7c13b8c07870881f032b5969~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=2aNktw8ETVFyV6%2FPPE95Y7Gr9EI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileThumb": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/dd307fee7c13b8c07870881f032b5969~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=2aNktw8ETVFyV6%2FPPE95Y7Gr9EI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "4342017",
+      "title": "howitworks",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "1618848592828422",
+      "title": "Science",
+      "desc": "Thanks to all who joined the #Science Post Contest! Check out the winner showcase here: https://vt.tiktok.com/ZMAf3xVgr/",
+      "profileLarger": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/d2b586558c38ff873743c56842b84bf9.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=C0QGCItLnhx34BApV%2F9TLKnfG%2Fc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileMedium": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/d2b586558c38ff873743c56842b84bf9.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=C0QGCItLnhx34BApV%2F9TLKnfG%2Fc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileThumb": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/d2b586558c38ff873743c56842b84bf9.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=C0QGCItLnhx34BApV%2F9TLKnfG%2Fc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "25574",
+      "title": "animation",
+      "desc": "Here's to the entire #Animation community on TikTok.",
+      "profileLarger": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/3037a12e47fb28d04f32b51cff6d9ac9.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=4QRHLlJ7yKLUL9GYwsPzwTvsf2I%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileMedium": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/3037a12e47fb28d04f32b51cff6d9ac9.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=4QRHLlJ7yKLUL9GYwsPzwTvsf2I%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileThumb": "https://p19-common-sign.tiktokcdn-us.com/tiktok-obj/3037a12e47fb28d04f32b51cff6d9ac9.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=4QRHLlJ7yKLUL9GYwsPzwTvsf2I%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "coverLarger": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/dba3a8eb2e9751215894cf80918e008f.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=Q01SGOfoYcMYafq508MZtTN1qWs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "coverMedium": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/dba3a8eb2e9751215894cf80918e008f.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=Q01SGOfoYcMYafq508MZtTN1qWs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "coverThumb": "https://p16-common-sign.tiktokcdn-us.com/tiktok-obj/dba3a8eb2e9751215894cf80918e008f.jpeg~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=Q01SGOfoYcMYafq508MZtTN1qWs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5"
+    },
+    {
+      "id": "1636483010861062",
+      "title": "learnontiktok",
+      "desc": "Discover something new and learn on TikTok 🧐🧐",
+      "profileLarger": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/00d667c69bf568ecbd23e82b0bf8db26.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=EPK5AGy1FnKMKtEaIEH0ij%2FBryg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileMedium": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/00d667c69bf568ecbd23e82b0bf8db26.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=EPK5AGy1FnKMKtEaIEH0ij%2FBryg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileThumb": "https://p19-common-sign.tiktokcdn-us.com/musically-maliva-obj/00d667c69bf568ecbd23e82b0bf8db26.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1795460400&x-signature=EPK5AGy1FnKMKtEaIEH0ij%2FBryg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 4279,
+    "shareCount": 558,
+    "commentCount": 140,
+    "playCount": 34200,
+    "collectCount": "1039"
+  },
+  "statsV2": {
+    "diggCount": "4279",
+    "shareCount": "558",
+    "commentCount": "140",
+    "playCount": "34200",
+    "collectCount": "1039",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "start": 46,
+      "end": 58,
+      "hashtagId": "761947",
+      "hashtagName": "engineering",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 59,
+      "end": 70,
+      "hashtagId": "4342017",
+      "hashtagName": "howitworks",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 71,
+      "end": 79,
+      "hashtagId": "1618848592828422",
+      "hashtagName": "science",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 80,
+      "end": 90,
+      "hashtagId": "25574",
+      "hashtagName": "animation",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 91,
+      "end": 105,
+      "hashtagId": "1636483010861062",
+      "hashtagName": "learnontiktok",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    }
+  ],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "isProhibited": false,
+  "penaltyContext": {
+    "status": 102,
+    "video_status": 10,
+    "tns_status": "102",
+    "reviewed": "0",
+    "ec_global_verdict": 1,
+    "arb_content_safety_status": 102,
+    "conclu_lifecycle_status": 1100,
+    "conclu_lifecycle_reason": 1101,
+    "conclu_calculated_time": "1795439843898",
+    "display_penalty_type": "0",
+    "display_ui_type": "0",
+    "display_policy": 0,
+    "conclu_refine_reason": "1101",
+    "aweme_type": 0,
+    "is_visitor_owner": false
+  },
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 10800,
+    "followingCount": 0,
+    "heart": 66600,
+    "heartCount": 66600,
+    "videoCount": 25,
+    "diggCount": 17,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "stickersOnItem": [],
+  "isAd": false,
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "diversificationLabels": [
+    "Comics & Cartoon, Anime",
+    "Anime & Comics",
+    "Entertainment"
+  ],
+  "locationCreated": "CA",
+  "suggestedWords": [
+    "how glass is made",
+    "engineering",
+    "animation",
+    "Science",
+    "invention of glass",
+    "glass",
+    "glasses frames",
+    "engineering buildings",
+    "Engineering Design",
+    "project glass"
+  ],
+  "contents": [
+    {
+      "desc": "How glasses were built",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "Base Model by Evanciao",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "#engineering #Howitworks #science #animation #learnontiktok",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 0,
+          "end": 12,
+          "hashtagId": "761947",
+          "hashtagName": "engineering",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 13,
+          "end": 24,
+          "hashtagId": "4342017",
+          "hashtagName": "howitworks",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 25,
+          "end": 33,
+          "hashtagId": "1618848592828422",
+          "hashtagName": "science",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 34,
+          "end": 44,
+          "hashtagId": "25574",
+          "hashtagName": "animation",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 45,
+          "end": 59,
+          "hashtagId": "1636483010861062",
+          "hashtagName": "learnontiktok",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    }
+  ],
+  "diversificationId": 10052,
+  "collected": false,
+  "videoSuggestWordsList": {
+    "video_suggest_words_struct": [
+      {
+        "words": [
+          {
+            "word": "how glass is made",
+            "word_id": "468640893644726720"
+          },
+          {
+            "word": "invention of glass",
+            "word_id": "8331875664056187577"
+          },
+          {
+            "word": "Engineering Buildings",
+            "word_id": "332546397920985466"
+          },
+          {
+            "word": "Engineering Design",
+            "word_id": "7332295494190166878"
+          },
+          {
+            "word": "Science And Technology",
+            "word_id": "8497681842930344858"
+          }
+        ],
+        "scene": "comment_top",
+        "hint_text": "Search:"
+      },
+      {
+        "words": [
+          {
+            "word": "invention of glass",
+            "word_id": "8331875664056187577"
+          }
+        ],
+        "scene": "feed_bar",
+        "hint_text": "Search · "
+      }
+    ]
+  },
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "ShowAIGC": true,
+  "backendSourceEventTracking": "",
+  "CategoryType": 100,
+  "textLanguage": "en",
+  "textTranslatable": true,
+  "authorStatsV2": {
+    "followerCount": "10800",
+    "followingCount": "0",
+    "heart": "66600",
+    "heartCount": "66600",
+    "videoCount": "25",
+    "diggCount": "17",
+    "friendCount": "0"
+  },
+  "isReviewing": false,
+  "creatorAIComment": {
+    "hasAITopic": false,
+    "categoryList": [],
+    "eligibleVideo": false,
+    "notEligibleReason": 101
+  },
+  "user": "violetslessons",
+  "date": "2026-11-12T19:30:00",
+  "post_type": "video"
+}
