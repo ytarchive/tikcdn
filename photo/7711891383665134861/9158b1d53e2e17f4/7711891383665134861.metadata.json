@@ -1,0 +1,511 @@
+{
+  "id": "7711891383665134861",
+  "desc": "Did Anthropic prove the Riemann hypothesis?  On November 20, 2026, Anthropic mathematician Levent Alpöge announced a claimed proof of the Riemann Hypothesis developed alongside an unreleased frontier version of Claude. Rather than releasing a human-written paper, Alpöge published a massive, machine-verified proof coded in the Lean programming language. Because the AI's raw natural-language output stretched to roughly 250,000 pages—far too long for humans to read—Alpöge and Claude translated the entire proof into 17 million lines of Lean code. Lean acts as an automated proof assistant that mechanically checks every single logical step against foundational mathematical axioms. The Mathematical Strategy  In Alpöge's four-page summary, he outlined the core mathematical techniques Claude used to crack the 167-year-old problem: • Adapting Function Field Methods. The proof draws inspiration from Stepanov's method, which originally proved the Riemann Hypothesis in simpler \"function field\" settings using derivatives and multiplicity. Because you cannot take standard derivatives of whole numbers, translating this approach to the integers has historically been a major roadblock. • Fourier Analysis and Theta Lifts. To bypass the integer roadblock, Alpöge and Claude combined new Fourier-analytic ideas with chaining theta lifts. This allowed the proof's underlying tricks to recur in a natively automorphic way, constructing specialized lattice theta sums to tightly bound the error term in counting prime numbers. • Broader Scope. According to Alpöge, the method does not just resolve the classical Riemann Hypothesis; it also proves the Generalized Riemann Hypothesis for Dirichlet L-functions. Verification Status • Automated Verification Passed. Within a day of the release, two independent groups confirmed that the 17 million lines of Lean code compile without errors, meaning the logical chain from axioms to conclusion holds up. Prominent number theorists, such as Oxford's James Maynard, have stated they are 98–99% certain the formal code is sound. • Human Review Pending. Mathematicians are still auditing the exact definitions at the top and bottom of the Lean files to ensure the formal statement matches the true Riemann Hypothesis without subtle loopholes. A condensed, human-readable version of the proof has not yet been published Follow for more!! #scholadaily #math #physics #engineering #ai @ScholaMex ",
+  "createTime": "1795564659",
+  "scheduleTime": 0,
+  "video": {
+    "id": "7711891383665134861",
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "ratio": "",
+    "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/29f2bc8bdc7a4d47a0a31da34fd3de57~tplv-photomode-image.jpeg?dr=9616&x-expires=1795773600&x-signature=InUxZrRmarbislA%2FIFa3TCMBFLQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8&ftpl=1",
+    "originCover": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/29f2bc8bdc7a4d47a0a31da34fd3de57~tplv-photomode-image.jpeg?dr=9616&x-expires=1795773600&x-signature=InUxZrRmarbislA%2FIFa3TCMBFLQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8&ftpl=1",
+    "dynamicCover": "",
+    "playAddr": "",
+    "downloadAddr": "",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": ""
+  },
+  "author": {
+    "id": "7382739194407699502",
+    "shortId": "",
+    "uniqueId": "scholadaily",
+    "nickname": "Schola",
+    "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c6c2b3011001fde1502939208185f4b2~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=375fd8a2&x-expires=1795773600&x-signature=F73XR5lmrwqcJ5Q1DcQ4O6N4BYo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "avatarMedium": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c6c2b3011001fde1502939208185f4b2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=def0dce5&x-expires=1795773600&x-signature=ZsLhUIH2zhE1x8CHCRF9Sd7wZDE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c6c2b3011001fde1502939208185f4b2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=a793a86b&x-expires=1795773600&x-signature=NBGAorS%2FH1d4U6RBR%2FiQuFj0T2Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "signature": "Schola is a modernized education system providing short form educational content\n\nDiscord server ⬇️⬇️",
+    "createTime": 1718927999,
+    "verified": false,
+    "secUid": "MS4wLjABAAAA-V9MjquG-FgfzPcQt221elA8dpYhA6zWX1VSdordOEbPYSpGI1d3gV2tzRBAbby4",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": true,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 0,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false,
+    "UserStoryStatus": 1,
+    "shortDramaCreator": {}
+  },
+  "music": {
+    "id": "7611236290998078215",
+    "title": "фрик",
+    "playUrl": "https://v16m.tiktokcdn-us.com/fc83af80302babd2c10de7a0f27c765a/6b070ad3/video/tos/alisg/tos-alisg-v-27dcd7/oIM9YYQJ3UeIjQDgBagF2o6tQfH8pTEB9IshiC/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7ThmtvpVXq8Zmo&mime_type=audio_mpeg&rc=NTQ8PDZlZ2U1Nzw1OzM2Z0BpM3VzeWo5cjc7OTMzODU8NEBiNC8tLjYxXzExMjMtNTI0YSMzLWtsMmRzamRhLS1kMS1zcw%3D%3D&vvpl=1&l=2026112510201831B3A95E4CCFB300883D&btag=e000b8000",
+    "coverLarge": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/15fb40bb5253aedaacd93cee80d7f99b~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=1ec71731&x-expires=1795773600&x-signature=Fer2LVSKaATx%2BI9RSqh7iNLJaTw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "coverMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/15fb40bb5253aedaacd93cee80d7f99b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=2b0f25fc&x-expires=1795773600&x-signature=85TFFnCjrm3oVYlbY6aaNTVl5lE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "coverThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/15fb40bb5253aedaacd93cee80d7f99b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=aec9f009&x-expires=1795773600&x-signature=Yo9%2F9FL7ewiw5rJ6I5sT7%2FOrJFU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+    "authorName": "prikol.png",
+    "original": true,
+    "private": false,
+    "duration": 17,
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 17.241,
+      "preciseShootDuration": 17.241,
+      "preciseAuditionDuration": 17.241,
+      "preciseVideoDuration": 17.241
+    },
+    "isCopyrighted": false,
+    "tt2dsp": {
+      "tt_to_dsp_song_infos": []
+    },
+    "is_unlimited_music": false,
+    "is_commerce_music": true,
+    "shoot_duration": 17
+  },
+  "challenges": [
+    {
+      "id": "7512629533451763758",
+      "title": "scholadaily",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "137467",
+      "title": "math",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "275625",
+      "title": "physics",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "761947",
+      "title": "engineering",
+      "desc": "E is for Engineering",
+      "profileLarger": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/dd307fee7c13b8c07870881f032b5969~tplv-tiktokx-origin.image?dr=9627&x-expires=1795622400&x-signature=Z1vPTS03CQ0jdUz87dDK%2BGsCwDA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8",
+      "profileMedium": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/dd307fee7c13b8c07870881f032b5969~tplv-tiktokx-origin.image?dr=9627&x-expires=1795622400&x-signature=Z1vPTS03CQ0jdUz87dDK%2BGsCwDA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8",
+      "profileThumb": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/dd307fee7c13b8c07870881f032b5969~tplv-tiktokx-origin.image?dr=9627&x-expires=1795622400&x-signature=Z1vPTS03CQ0jdUz87dDK%2BGsCwDA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "183145",
+      "title": "ai",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 2035,
+    "shareCount": 530,
+    "commentCount": 19,
+    "playCount": 15200,
+    "collectCount": "131"
+  },
+  "statsV2": {
+    "diggCount": "2035",
+    "shareCount": "530",
+    "commentCount": "19",
+    "playCount": "15200",
+    "collectCount": "131",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "start": 2374,
+      "end": 2386,
+      "hashtagId": "7512629533451763758",
+      "hashtagName": "scholadaily",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 2387,
+      "end": 2392,
+      "hashtagId": "137467",
+      "hashtagName": "math",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 2393,
+      "end": 2401,
+      "hashtagId": "275625",
+      "hashtagName": "physics",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 2402,
+      "end": 2414,
+      "hashtagId": "761947",
+      "hashtagName": "engineering",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 2415,
+      "end": 2418,
+      "hashtagId": "183145",
+      "hashtagName": "ai",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 2419,
+      "end": 2429,
+      "hashtagName": "",
+      "type": 0,
+      "subType": 0,
+      "userId": "7652111526886818829",
+      "isCommerce": false,
+      "userUniqueId": "scholamex",
+      "secUid": "MS4wLjABAAAA1L7egJx0YaLCruAsLTkRSvEfBAYo-yJ6Yl7JqgLG9q1lFtlqKr1-_QeqXWPka06V"
+    }
+  ],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "isProhibited": false,
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 9605,
+    "followingCount": 27,
+    "heart": 1800000,
+    "heartCount": 1800000,
+    "videoCount": 386,
+    "diggCount": 287,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "stickersOnItem": [],
+  "isAd": false,
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "imagePost": {
+    "images": [
+      {
+        "imageURL": {
+          "urlList": [
+            "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/29f2bc8bdc7a4d47a0a31da34fd3de57~tplv-photomode-image.jpeg?dr=9616&x-expires=1795773600&x-signature=pwRZosS00GN9ggwxLuN7ckllfY4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8&ftpl=1",
+            "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/29f2bc8bdc7a4d47a0a31da34fd3de57~tplv-photomode-image.jpeg?dr=9616&x-expires=1795773600&x-signature=InUxZrRmarbislA%2FIFa3TCMBFLQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8&ftpl=1"
+          ]
+        },
+        "imageWidth": 1290,
+        "imageHeight": 1290
+      }
+    ],
+    "cover": {
+      "imageURL": {
+        "urlList": [
+          "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/29f2bc8bdc7a4d47a0a31da34fd3de57~tplv-photomode-image.jpeg?dr=9616&x-expires=1795773600&x-signature=InUxZrRmarbislA%2FIFa3TCMBFLQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8&ftpl=1",
+          "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/29f2bc8bdc7a4d47a0a31da34fd3de57~tplv-photomode-image.jpeg?dr=9616&x-expires=1795773600&x-signature=pwRZosS00GN9ggwxLuN7ckllfY4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8&ftpl=1"
+        ]
+      },
+      "imageWidth": 1290,
+      "imageHeight": 1290
+    },
+    "shareCover": {
+      "imageURL": {
+        "urlList": [
+          "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/29f2bc8bdc7a4d47a0a31da34fd3de57~tplv-photomode-image.jpeg?dr=9616&x-expires=1795773600&x-signature=InUxZrRmarbislA%2FIFa3TCMBFLQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8&ftpl=1",
+          "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-i-photomode-tx/29f2bc8bdc7a4d47a0a31da34fd3de57~tplv-photomode-image.jpeg?dr=9616&x-expires=1795773600&x-signature=pwRZosS00GN9ggwxLuN7ckllfY4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast8&ftpl=1"
+        ]
+      },
+      "imageWidth": 1290,
+      "imageHeight": 1290
+    },
+    "title": "Could LeGoat be on to something here? 👀🤔"
+  },
+  "locationCreated": "US",
+  "contentLocation": {
+    "address": {
+      "addressCountry": "",
+      "addressLocality": "Channelview",
+      "addressRegion": "",
+      "streetAddress": "University of Houston, 4302 University Dr, Houston, TX 77004, United States"
+    }
+  },
+  "poi": {
+    "name": "University of Houston",
+    "address": "4302 University Dr, Houston, TX 77004, United States",
+    "city": "Channelview",
+    "province": "",
+    "country": "",
+    "id": "22535796834173448",
+    "fatherPoiId": "",
+    "fatherPoiName": "Channelview",
+    "type": 0,
+    "category": "Education",
+    "cityCode": "116029233",
+    "countryCode": "6252001",
+    "ttTypeCode": "14a0a6",
+    "typeCode": "",
+    "ttTypeNameTiny": "College and University",
+    "ttTypeNameMedium": "College and University",
+    "ttTypeNameSuper": "Education"
+  },
+  "suggestedWords": [
+    "Riemann Hypothesis",
+    "the riemann hypothesis",
+    "Anthropic Mathematician Riemann Hypothesis",
+    "Anthropic Claude Riemann Hypothesis",
+    "Levent Alpöge Riemann Hypothesis Proof",
+    "Riemann Hypothesis Proof Nov 20 2026",
+    "Mathematician Claims Riemann Hypothesis Proof",
+    "Alpoge Posts Proof of Riemann Hypothesis",
+    "Levent Alpöge Riemann Hypothesis Claim",
+    "Riemann Hypothesis Proof Claim"
+  ],
+  "contents": [
+    {
+      "desc": "Did Anthropic prove the Riemann hypothesis? ",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "On November 20, 2026, Anthropic mathematician Levent Alpöge announced a claimed proof of the Riemann Hypothesis developed alongside an unreleased frontier version of Claude. Rather than releasing a human-written paper, Alpöge published a massive, machine-verified proof coded in the Lean programming language.",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "Because the AI's raw natural-language output stretched to roughly 250,000 pages—far too long for humans to read—Alpöge and Claude translated the entire proof into 17 million lines of Lean code. Lean acts as an automated proof assistant that mechanically checks every single logical step against foundational mathematical axioms.",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "The Mathematical Strategy ",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "In Alpöge's four-page summary, he outlined the core mathematical techniques Claude used to crack the 167-year-old problem:",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "• Adapting Function Field Methods. The proof draws inspiration from Stepanov's method, which originally proved the Riemann Hypothesis in simpler \"function field\" settings using derivatives and multiplicity. Because you cannot take standard derivatives of whole numbers, translating this approach to the integers has historically been a major roadblock.",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "• Fourier Analysis and Theta Lifts. To bypass the integer roadblock, Alpöge and Claude combined new Fourier-analytic ideas with chaining theta lifts. This allowed the proof's underlying tricks to recur in a natively automorphic way, constructing specialized lattice theta sums to tightly bound the error term in counting prime numbers.",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "• Broader Scope. According to Alpöge, the method does not just resolve the classical Riemann Hypothesis; it also proves the Generalized Riemann Hypothesis for Dirichlet L-functions.",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "Verification Status",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "• Automated Verification Passed. Within a day of the release, two independent groups confirmed that the 17 million lines of Lean code compile without errors, meaning the logical chain from axioms to conclusion holds up. Prominent number theorists, such as Oxford's James Maynard, have stated they are 98–99% certain the formal code is sound.",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "• Human Review Pending. Mathematicians are still auditing the exact definitions at the top and bottom of the Lean files to ensure the formal statement matches the true Riemann Hypothesis without subtle loopholes. A condensed, human-readable version of the proof has not yet been published",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": "Follow for more!! #scholadaily #math #physics #engineering #ai @ScholaMex ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 18,
+          "end": 30,
+          "hashtagId": "7512629533451763758",
+          "hashtagName": "scholadaily",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 31,
+          "end": 36,
+          "hashtagId": "137467",
+          "hashtagName": "math",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 37,
+          "end": 45,
+          "hashtagId": "275625",
+          "hashtagName": "physics",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 46,
+          "end": 58,
+          "hashtagId": "761947",
+          "hashtagName": "engineering",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 59,
+          "end": 62,
+          "hashtagId": "183145",
+          "hashtagName": "ai",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 63,
+          "end": 73,
+          "hashtagName": "",
+          "type": 0,
+          "subType": 0,
+          "userId": "7652111526886818829",
+          "isCommerce": false,
+          "userUniqueId": "scholamex",
+          "secUid": "MS4wLjABAAAA1L7egJx0YaLCruAsLTkRSvEfBAYo-yJ6Yl7JqgLG9q1lFtlqKr1-_QeqXWPka06V"
+        }
+      ]
+    }
+  ],
+  "collected": false,
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "ShowAIGC": true,
+  "backendSourceEventTracking": "",
+  "CategoryType": 120,
+  "textLanguage": "en",
+  "textTranslatable": true,
+  "titleLanguage": "en",
+  "titleTranslatable": true,
+  "authorStatsV2": {
+    "followerCount": "9605",
+    "followingCount": "27",
+    "heart": "1800000",
+    "heartCount": "1800000",
+    "videoCount": "386",
+    "diggCount": "287",
+    "friendCount": "0"
+  },
+  "isReviewing": false,
+  "creatorAIComment": {
+    "hasAITopic": false,
+    "categoryList": [],
+    "eligibleVideo": false,
+    "notEligibleReason": 101
+  },
+  "user": "scholadaily",
+  "date": "2026-11-24T23:57:39",
+  "post_type": "image"
+}
