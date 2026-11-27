@@ -1,0 +1,420 @@
+{
+  "id": "7710266445472632066",
+  "desc": "Disclaimer: !the ss from vogel is not a real session!!. I’ve got inspired by his post bc I found it funny.  But the context is that Ai models like claude opus/fable spawn in subagents to do certain work for them. Basically subagents are helpful in a way where they don’t pollute the context window of the parenting agent. Specifically in Claude code if you choose your parenting agent to be fable it will by default choose fable subagents, but it’s way cheaper to configure it so that the parenting agent chooses cheaper models like sonnet. Which is usually what people configure it to anyway. Usually subagents only communicate with their parenting agent, subagents could probably only communicate through shared files or triggering commands for you to approve. Eitherway it’s a fun scenario to imagine, a subagent bypassing its manager to get to the ceo. This image has sonnet drawn as an “anime” girl, that’s very excited to interact with the user. #claude #anthropic #ai #fyp #claudesonnet ",
+  "createTime": "1795186303",
+  "scheduleTime": 0,
+  "video": {
+    "id": "7710266445472632066",
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "ratio": "",
+    "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/2c771ff5efdb47f49bef89a4c9433d7d~tplv-photomode-image.jpeg?dr=9616&x-expires=1795946400&x-signature=Ty5D%2BB3BrT0PnWeGLI4l9r5Vxhg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+    "originCover": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/2c771ff5efdb47f49bef89a4c9433d7d~tplv-photomode-image.jpeg?dr=9616&x-expires=1795946400&x-signature=Ty5D%2BB3BrT0PnWeGLI4l9r5Vxhg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+    "dynamicCover": "",
+    "playAddr": "",
+    "downloadAddr": "",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": ""
+  },
+  "author": {
+    "id": "7668351969518470166",
+    "shortId": "",
+    "uniqueId": "kedr.bit",
+    "nickname": "Kedr.bit",
+    "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0f21de2969ec6273b0cda7fcfd6247a6~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=430d4740&x-expires=1795946400&x-signature=ZlaV36hMlp2m1SDaMUpPGjvbOWY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0f21de2969ec6273b0cda7fcfd6247a6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=af9dc727&x-expires=1795946400&x-signature=xJq4uTHtuQkOrqgUOlPi1S0kvmg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0f21de2969ec6273b0cda7fcfd6247a6~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=20384417&x-expires=1795946400&x-signature=X0JeU%2B0zkUABbx2e%2Fth4%2FE4tAo4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "signature": "I like text generative AI.\nNone of my posts are AI generated.\nAll of my characters are made by me.\nUsing my OCs? Credit me. Thatlev stole my art. X: @kedr_bit",
+    "createTime": 1785427374,
+    "verified": false,
+    "secUid": "MS4wLjABAAAAWqagc2wZ5mPlPFlCcbxpyKst-kAz4UgxW5xxOoUcVRVG7EWypCoMlx1PK1ZL--Zm",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 0,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false,
+    "UserStoryStatus": 0,
+    "shortDramaCreator": {}
+  },
+  "music": {
+    "id": "7699891194507840288",
+    "title": "original sound",
+    "playUrl": "https://v16m.tiktokcdn-us.com/a48da40ba695d045cc98bd09d49562e9/6b09a9e8/video/tos/useast2a/tos-useast2a-v-2370-euttp/oUIgAJBqA2c4JF2p8eLDDQEUmQDfCATAiMCUE4/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7Thw4k6VXq8Zmo&mime_type=audio_mpeg&rc=NmQ7Mzk8PDVmNmZlMzU1O0BpMzs4dHg5cmpyZTMzZjU8NUBjLi4zYC0yXmIxMjQ0LTFeYSNjamYxMmQ0MWFhLS1kMTNzcw%3D%3D&vvpl=1&l=202611271003362DA89D37E7898104FACB&btag=e000b8000",
+    "coverLarge": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/426bbe1dc76e029178d6afadf313b16d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=09ecd0f1&x-expires=1795946400&x-signature=%2BBVZEsNH04WRvNUMC%2BpL9YcoyxQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverMedium": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/426bbe1dc76e029178d6afadf313b16d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=b592b95f&x-expires=1795946400&x-signature=Yc%2B2EcYht1i%2BRUix%2B92PDosu8io%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/426bbe1dc76e029178d6afadf313b16d~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=929e2696&x-expires=1795946400&x-signature=NtH%2Bs366Qqe4V%2Bd8urQp21KLEVU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "authorName": "maxkd",
+    "original": true,
+    "private": false,
+    "duration": 16,
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 16.483,
+      "preciseShootDuration": 16.483,
+      "preciseAuditionDuration": 16.483,
+      "preciseVideoDuration": 16.483
+    },
+    "isCopyrighted": false,
+    "tt2dsp": {
+      "tt_to_dsp_song_infos": []
+    },
+    "is_unlimited_music": false,
+    "is_commerce_music": true,
+    "shoot_duration": 16
+  },
+  "challenges": [
+    {
+      "id": "115724",
+      "title": "claude",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "37587917",
+      "title": "anthropic",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "183145",
+      "title": "ai",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "229207",
+      "title": "fyp",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "7383029286066159649",
+      "title": "claudesonnet",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 3858,
+    "shareCount": 492,
+    "commentCount": 71,
+    "playCount": 21600,
+    "collectCount": "697"
+  },
+  "statsV2": {
+    "diggCount": "3858",
+    "shareCount": "492",
+    "commentCount": "71",
+    "playCount": "21600",
+    "collectCount": "697",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "start": 952,
+      "end": 959,
+      "hashtagId": "115724",
+      "hashtagName": "claude",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 960,
+      "end": 970,
+      "hashtagId": "37587917",
+      "hashtagName": "anthropic",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 971,
+      "end": 974,
+      "hashtagId": "183145",
+      "hashtagName": "ai",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 975,
+      "end": 979,
+      "hashtagId": "229207",
+      "hashtagName": "fyp",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 980,
+      "end": 993,
+      "hashtagId": "7383029286066159649",
+      "hashtagName": "claudesonnet",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    }
+  ],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "isProhibited": false,
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 8425,
+    "followingCount": 0,
+    "heart": 329200,
+    "heartCount": 329200,
+    "videoCount": 53,
+    "diggCount": 476,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "stickersOnItem": [],
+  "isAd": false,
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "imagePost": {
+    "images": [
+      {
+        "imageURL": {
+          "urlList": [
+            "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/2c771ff5efdb47f49bef89a4c9433d7d~tplv-photomode-image.jpeg?dr=9616&x-expires=1795946400&x-signature=Ty5D%2BB3BrT0PnWeGLI4l9r5Vxhg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+            "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/2c771ff5efdb47f49bef89a4c9433d7d~tplv-photomode-image.jpeg?dr=9616&x-expires=1795946400&x-signature=9cxKomcFqyIwH5GNHMAaElJvpyU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+          ]
+        },
+        "imageWidth": 2048,
+        "imageHeight": 2048
+      }
+    ],
+    "cover": {
+      "imageURL": {
+        "urlList": [
+          "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/2c771ff5efdb47f49bef89a4c9433d7d~tplv-photomode-image.jpeg?dr=9616&x-expires=1795946400&x-signature=Ty5D%2BB3BrT0PnWeGLI4l9r5Vxhg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+          "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/2c771ff5efdb47f49bef89a4c9433d7d~tplv-photomode-image.jpeg?dr=9616&x-expires=1795946400&x-signature=9cxKomcFqyIwH5GNHMAaElJvpyU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+        ]
+      },
+      "imageWidth": 2048,
+      "imageHeight": 2048
+    },
+    "shareCover": {
+      "imageURL": {
+        "urlList": [
+          "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/2c771ff5efdb47f49bef89a4c9433d7d~tplv-photomode-image.jpeg?dr=9616&x-expires=1795946400&x-signature=Ty5D%2BB3BrT0PnWeGLI4l9r5Vxhg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+          "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/2c771ff5efdb47f49bef89a4c9433d7d~tplv-photomode-image.jpeg?dr=9616&x-expires=1795946400&x-signature=9cxKomcFqyIwH5GNHMAaElJvpyU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+        ]
+      },
+      "imageWidth": 2048,
+      "imageHeight": 2048
+    },
+    "title": "Press the button. Perish the sub agent."
+  },
+  "locationCreated": "CH",
+  "suggestedWords": [
+    "lev ai",
+    "agent ai",
+    "agent talking to ai agent",
+    "Claude Monet",
+    "talking to ai",
+    "agent gets surprised while talking to ai",
+    "Claude Ship Accelerates Code Shipping",
+    "sentient ai agent",
+    "aftv claude",
+    "ai painting"
+  ],
+  "contents": [
+    {
+      "desc": "Disclaimer: !the ss from vogel is not a real session!!. I’ve got inspired by his post bc I found it funny.",
+      "textExtra": []
+    },
+    {
+      "desc": "",
+      "textExtra": []
+    },
+    {
+      "desc": " But the context is that Ai models like claude opus/fable spawn in subagents to do certain work for them. Basically subagents are helpful in a way where they don’t pollute the context window of the parenting agent. Specifically in Claude code if you choose your parenting agent to be fable it will by default choose fable subagents, but it’s way cheaper to configure it so that the parenting agent chooses cheaper models like sonnet. Which is usually what people configure it to anyway. Usually subagents only communicate with their parenting agent, subagents could probably only communicate through shared files or triggering commands for you to approve. Eitherway it’s a fun scenario to imagine, a subagent bypassing its manager to get to the ceo. This image has sonnet drawn as an “anime” girl, that’s very excited to interact with the user. #claude #anthropic #ai #fyp #claudesonnet ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 845,
+          "end": 852,
+          "hashtagId": "115724",
+          "hashtagName": "claude",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 853,
+          "end": 863,
+          "hashtagId": "37587917",
+          "hashtagName": "anthropic",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 864,
+          "end": 867,
+          "hashtagId": "183145",
+          "hashtagName": "ai",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 868,
+          "end": 872,
+          "hashtagId": "229207",
+          "hashtagName": "fyp",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 873,
+          "end": 886,
+          "hashtagId": "7383029286066159649",
+          "hashtagName": "claudesonnet",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    }
+  ],
+  "collected": false,
+  "videoSuggestWordsList": {
+    "video_suggest_words_struct": [
+      {
+        "words": [
+          {
+            "word": "subagents claude code",
+            "word_id": "243811410446515432"
+          }
+        ],
+        "scene": "feed_bar",
+        "hint_text": "Search · "
+      },
+      {
+        "words": [
+          {
+            "word": "subagent",
+            "word_id": "6882860785517205253"
+          },
+          {
+            "word": "lev ai",
+            "word_id": "4034839942983016438"
+          },
+          {
+            "word": "ai subagents",
+            "word_id": "1556815438560363891"
+          },
+          {
+            "word": "sonnet claude ai",
+            "word_id": "2445362810249721479"
+          },
+          {
+            "word": "subagents claude code",
+            "word_id": "243811410446515432"
+          }
+        ],
+        "scene": "comment_top",
+        "hint_text": "Search:"
+      }
+    ]
+  },
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "ShowAIGC": true,
+  "backendSourceEventTracking": "",
+  "CategoryType": 120,
+  "textLanguage": "en",
+  "textTranslatable": true,
+  "titleLanguage": "en",
+  "titleTranslatable": true,
+  "authorStatsV2": {
+    "followerCount": "8425",
+    "followingCount": "0",
+    "heart": "329200",
+    "heartCount": "329200",
+    "videoCount": "53",
+    "diggCount": "476",
+    "friendCount": "0"
+  },
+  "isReviewing": false,
+  "creatorAIComment": {
+    "hasAITopic": false,
+    "categoryList": [],
+    "eligibleVideo": false,
+    "notEligibleReason": 101
+  },
+  "user": "kedr.bit",
+  "date": "2026-11-20T14:51:43",
+  "post_type": "image"
+}
