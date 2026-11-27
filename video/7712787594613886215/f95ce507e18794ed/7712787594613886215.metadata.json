@@ -1,0 +1,404 @@
+{
+  "id": "7712787594613886215",
+  "desc": "A new anime game similar to buckshot Roulette is coming! I'm so excited!  #buckshotroulette  #roulette  #game  #foryou ",
+  "createTime": "1795773310",
+  "scheduleTime": 0,
+  "video": {
+    "id": "7712787594613886215",
+    "height": 576,
+    "width": 1024,
+    "duration": 28,
+    "ratio": "540p",
+    "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o8xJC2LEtaR2BIEI0BFrAU0Dg8ctrBx4fVCE6e~tplv-tiktokx-origin.image?dr=9636&x-expires=1795946400&x-signature=PZA0XshF%2BQowks5f%2BIqK8oIrKRs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "originCover": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ok2JCxgCfAIEwLkAADRra4B8UEBcFEL62VuIBe~tplv-tiktokx-origin.image?dr=9636&x-expires=1795946400&x-signature=URHZA8lzFlOyovdIGFTZdPQ%2Fizw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "dynamicCover": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/owILIcEDR2fB6eBBUrVJEx8I4SFpaRAC2CBoOg~tplv-tiktokx-origin.image?dr=9636&x-expires=1795946400&x-signature=NK%2F1rT9WCKpQ534sCwVMolztx7I%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o84VHDC6EAcC2xQEeBUEm6LBcI8Rg2F2rJBa8f/?a=1988&bti=ODszNWYuMDE6&&bt=530&ft=aEeq8qT0mIoPD12ZcyjS3wUFf_AbMeF~O5&mime_type=video_mp4&rc=ZTg0NTg6Ojs0NmllZDo3NUBpM2t1OXg5cmpvZjMzODczNEBgYzQuNjU1XjExYWFiYGFgYSNyaWpvMmRrMjFhLS1kMWBzcw%3D%3D&expire=1795949325&l=2026112710481782375827A34BE706ABE2&ply_type=2&policy=2&signature=16d95ad3ba1a2f7a40f5bc2dcfe2c68f&tk=tt_chain_token&btag=e000b8000",
+    "downloadAddr": "",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": "",
+    "bitrate": 543209,
+    "encodedType": "normal",
+    "format": "mp4",
+    "videoQuality": "lower",
+    "encodeUserTag": "",
+    "codecType": "h264",
+    "definition": "540p",
+    "subtitleInfos": [],
+    "zoomCover": {
+      "240": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o8xJC2LEtaR2BIEI0BFrAU0Dg8ctrBx4fVCE6e~tplv-photomode-zoomcover:240:240.jpeg?dr=9616&x-expires=1795946400&x-signature=hitkHudAsvFTzTIvcd%2BCi6qbs2w%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "480": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o8xJC2LEtaR2BIEI0BFrAU0Dg8ctrBx4fVCE6e~tplv-photomode-zoomcover:480:480.jpeg?dr=9616&x-expires=1795946400&x-signature=gGIFH51WlNwbKpYhSIINLFSW%2B%2Fk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "720": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o8xJC2LEtaR2BIEI0BFrAU0Dg8ctrBx4fVCE6e~tplv-photomode-zoomcover:720:720.jpeg?dr=9616&x-expires=1795946400&x-signature=XKGUh3DivdeDkzrrkjL2bA1y6pA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "960": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o8xJC2LEtaR2BIEI0BFrAU0Dg8ctrBx4fVCE6e~tplv-photomode-zoomcover:960:960.jpeg?dr=9616&x-expires=1795946400&x-signature=baNJbYk8kSvS0gQhRkSTKuKxEe4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1"
+    },
+    "volumeInfo": {
+      "Loudness": -8.4,
+      "Peak": 0.81283
+    },
+    "bitrateInfo": [
+      {
+        "Bitrate": 543209,
+        "QualityType": 24,
+        "BitrateFPS": 30,
+        "GearName": "lower_540_0",
+        "PlayAddr": {
+          "DataSize": "1948763",
+          "Width": 1024,
+          "Height": 576,
+          "Uri": "v1c044g50000dc4l5gnog65ur6mrlhu0",
+          "UrlList": [
+            "https://v16-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o84VHDC6EAcC2xQEeBUEm6LBcI8Rg2F2rJBa8f/?a=1988&bti=ODszNWYuMDE6&&bt=530&ft=aEeq8qT0mIoPD12ZcyjS3wUFf_AbMeF~O5&mime_type=video_mp4&rc=ZTg0NTg6Ojs0NmllZDo3NUBpM2t1OXg5cmpvZjMzODczNEBgYzQuNjU1XjExYWFiYGFgYSNyaWpvMmRrMjFhLS1kMWBzcw%3D%3D&expire=1795949325&l=2026112710481782375827A34BE706ABE2&ply_type=2&policy=2&signature=16d95ad3ba1a2f7a40f5bc2dcfe2c68f&tk=tt_chain_token&btag=e000b8000",
+            "https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o84VHDC6EAcC2xQEeBUEm6LBcI8Rg2F2rJBa8f/?a=1988&bti=ODszNWYuMDE6&&bt=530&ft=aEeq8qT0mIoPD12ZcyjS3wUFf_AbMeF~O5&mime_type=video_mp4&rc=ZTg0NTg6Ojs0NmllZDo3NUBpM2t1OXg5cmpvZjMzODczNEBgYzQuNjU1XjExYWFiYGFgYSNyaWpvMmRrMjFhLS1kMWBzcw%3D%3D&expire=1795949325&l=2026112710481782375827A34BE706ABE2&ply_type=2&policy=2&signature=16d95ad3ba1a2f7a40f5bc2dcfe2c68f&tk=tt_chain_token&btag=e000b8000",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=c2d4c7eadbdf4341a88787951271f5cb&is_play_url=1&item_id=7712787594613886215&line=0&ply_type=2&pt=dGlrdG9rLndlYmFyY2guZ2F0ZXdheSYvQGtfYXJ0aHVyMDEvdmlkZW8vNzcxMjc4NzU5NDYxMzg4NjIxNSYyMDI2MTEyNzEwNDgxNzgyMzc1ODI3QTM0QkU3MDZBQkUyJjE3OTU3NzY0OTcmMWY1NjZhZDc3NDY0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjUwNzdlYzJkOWRiM2NjZTgxYzMxNTgyNGQ4ZDBhZGEy&tk=tt_chain_token&video_id=v1c044g50000dc4l5gnog65ur6mrlhu0"
+          ],
+          "UrlKey": "v1c044g50000dc4l5gnog65ur6mrlhu0_h264_540p_543209",
+          "FileHash": "a60ae5aecbb7159a2b0f7c97106d18a8",
+          "FileCs": "c:0-24827-c6f1"
+        },
+        "CodecType": "h264",
+        "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 85.626, \"v960\": 88.391, \"v864\": 89.542, \"v720\": 92.005}, \"ori\": {\"v1080\": 75.562, \"v960\": 78.052, \"v864\": 80.222, \"v720\": 84.356}}}",
+        "Format": "mp4",
+        "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 100259}, {\\\"time\\\": 2, \\\"offset\\\": 196627}, {\\\"time\\\": 3, \\\"offset\\\": 269315}, {\\\"time\\\": 4, \\\"offset\\\": 334016}, {\\\"time\\\": 5, \\\"offset\\\": 417978}, {\\\"time\\\": 10, \\\"offset\\\": 695447}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 85.626, \\\"v960\\\": 88.391, \\\"v864\\\": 89.542, \\\"v720\\\": 92.005}, \\\"ori\\\": {\\\"v1080\\\": 75.562, \\\"v960\\\": 78.052, \\\"v864\\\": 80.222, \\\"v720\\\": 84.356}}}\",\"ufq\":\"\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"25b3faebdda74a9e438e851988a6efcc\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":32234}"
+      }
+    ],
+    "size": "1948763",
+    "VQScore": "0",
+    "claInfo": {
+      "hasOriginalAudio": true,
+      "enableAutoCaption": true,
+      "captionInfos": [],
+      "noCaptionReason": 1
+    },
+    "videoID": "v1c044g50000dc4l5gnog65ur6mrlhu0",
+    "PlayAddrStruct": {
+      "DataSize": "1948763",
+      "Width": 1024,
+      "Height": 576,
+      "Uri": "v1c044g50000dc4l5gnog65ur6mrlhu0",
+      "UrlList": [
+        "https://v16-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o84VHDC6EAcC2xQEeBUEm6LBcI8Rg2F2rJBa8f/?a=1988&bti=ODszNWYuMDE6&&bt=530&ft=aEeq8qT0mIoPD12ZcyjS3wUFf_AbMeF~O5&mime_type=video_mp4&rc=ZTg0NTg6Ojs0NmllZDo3NUBpM2t1OXg5cmpvZjMzODczNEBgYzQuNjU1XjExYWFiYGFgYSNyaWpvMmRrMjFhLS1kMWBzcw%3D%3D&expire=1795949325&l=2026112710481782375827A34BE706ABE2&ply_type=2&policy=2&signature=16d95ad3ba1a2f7a40f5bc2dcfe2c68f&tk=tt_chain_token&btag=e000b8000",
+        "https://v19-webapp-prime.us.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o84VHDC6EAcC2xQEeBUEm6LBcI8Rg2F2rJBa8f/?a=1988&bti=ODszNWYuMDE6&&bt=530&ft=aEeq8qT0mIoPD12ZcyjS3wUFf_AbMeF~O5&mime_type=video_mp4&rc=ZTg0NTg6Ojs0NmllZDo3NUBpM2t1OXg5cmpvZjMzODczNEBgYzQuNjU1XjExYWFiYGFgYSNyaWpvMmRrMjFhLS1kMWBzcw%3D%3D&expire=1795949325&l=2026112710481782375827A34BE706ABE2&ply_type=2&policy=2&signature=16d95ad3ba1a2f7a40f5bc2dcfe2c68f&tk=tt_chain_token&btag=e000b8000",
+        "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=c2d4c7eadbdf4341a88787951271f5cb&is_play_url=1&item_id=7712787594613886215&line=0&ply_type=2&pt=dGlrdG9rLndlYmFyY2guZ2F0ZXdheSYvQGtfYXJ0aHVyMDEvdmlkZW8vNzcxMjc4NzU5NDYxMzg4NjIxNSYyMDI2MTEyNzEwNDgxNzgyMzc1ODI3QTM0QkU3MDZBQkUyJjE3OTU3NzY0OTcmMWY1NjZhZDc3NDY0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjUwNzdlYzJkOWRiM2NjZTgxYzMxNTgyNGQ4ZDBhZGEy&tk=tt_chain_token&video_id=v1c044g50000dc4l5gnog65ur6mrlhu0"
+      ],
+      "UrlKey": "v1c044g50000dc4l5gnog65ur6mrlhu0_h264_540p_543209",
+      "FileHash": "a60ae5aecbb7159a2b0f7c97106d18a8",
+      "FileCs": "c:0-24827-c6f1"
+    }
+  },
+  "author": {
+    "id": "7513144769637565457",
+    "shortId": "",
+    "uniqueId": "k_arthur01",
+    "nickname": "King Arthur",
+    "avatarLarger": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/f5c1a844621095e868bd1874011b5fbf~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=9b7f5fe2&x-expires=1795946400&x-signature=F9urKsmhdRVzevtM1QvbeeFNe8Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/f5c1a844621095e868bd1874011b5fbf~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=2d1ad10b&x-expires=1795946400&x-signature=kfvc1cSa7RT5xNlm9X5%2FVtBQuV8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/f5c1a844621095e868bd1874011b5fbf~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=e06f9a40&x-expires=1795946400&x-signature=ctkqprrFyoCktzvBtzC1QNWL67I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "signature": "مترجم مانهوا منفرد",
+    "createTime": 1762467023,
+    "verified": false,
+    "secUid": "MS4wLjABAAAAqkBHQ_k06dKVy8nmuJcmbANFGEWgTjp5kORyJK_P-INvMJsJANQo4KCAFVR9zq2x",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 3,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false,
+    "UserStoryStatus": 0,
+    "shortDramaCreator": {}
+  },
+  "music": {
+    "id": "7712787660078877460",
+    "title": "الصوت الأصلي",
+    "playUrl": "https://v16m.tiktokcdn-us.com/f716384e0ff9b9f271d8928dbea9635d/6b09b46d/video/tos/alisg/tos-alisg-v-27dcd7/oMolwBAHl8iBsM8BCPAogbmTaJIPHYT4lUiUF/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7Th3wk6VXq8Zmo&mime_type=audio_mpeg&rc=NWg4OGQ8NDllNTM5OTc7aEBpam1qanY5cjNvZjMzODU8NEBjLmNfMDAzNS0xXy02YjQtYSNmYmMvMmQ0NDFhLS1kMS1zcw%3D%3D&vvpl=1&l=2026112710481782375827A34BE706ABE2&btag=e000b8000",
+    "coverLarge": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/f5c1a844621095e868bd1874011b5fbf~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=9b7f5fe2&x-expires=1795946400&x-signature=F9urKsmhdRVzevtM1QvbeeFNe8Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/f5c1a844621095e868bd1874011b5fbf~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=2d1ad10b&x-expires=1795946400&x-signature=kfvc1cSa7RT5xNlm9X5%2FVtBQuV8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/f5c1a844621095e868bd1874011b5fbf~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=e06f9a40&x-expires=1795946400&x-signature=ctkqprrFyoCktzvBtzC1QNWL67I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "authorName": "King Arthur",
+    "original": true,
+    "private": false,
+    "duration": 28,
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 28.761,
+      "preciseShootDuration": 28.761,
+      "preciseAuditionDuration": 28.761,
+      "preciseVideoDuration": 28.761
+    },
+    "isCopyrighted": false,
+    "tt2dsp": {
+      "tt_to_dsp_song_infos": []
+    },
+    "is_unlimited_music": false,
+    "is_commerce_music": true,
+    "shoot_duration": 28
+  },
+  "challenges": [
+    {
+      "id": "7317825642412638251",
+      "title": "buckshotroulette",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "254599",
+      "title": "roulette",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "2006",
+      "title": "game",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "42164",
+      "title": "foryou",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 5,
+    "shareCount": 0,
+    "commentCount": 0,
+    "playCount": 39,
+    "collectCount": "1"
+  },
+  "statsV2": {
+    "diggCount": "5",
+    "shareCount": "0",
+    "commentCount": "0",
+    "playCount": "39",
+    "collectCount": "1",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "start": 74,
+      "end": 91,
+      "hashtagId": "7317825642412638251",
+      "hashtagName": "buckshotroulette",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 93,
+      "end": 102,
+      "hashtagId": "254599",
+      "hashtagName": "roulette",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 104,
+      "end": 109,
+      "hashtagId": "2006",
+      "hashtagName": "game",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 111,
+      "end": 118,
+      "hashtagId": "42164",
+      "hashtagName": "foryou",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    }
+  ],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "isProhibited": false,
+  "penaltyContext": {
+    "status": 102,
+    "video_status": 10,
+    "tns_status": "102",
+    "reviewed": "0",
+    "ec_global_verdict": 1,
+    "arb_content_safety_status": 102,
+    "conclu_lifecycle_status": 1100,
+    "conclu_lifecycle_reason": 1101,
+    "conclu_calculated_time": "1795776497801",
+    "display_penalty_type": "0",
+    "display_ui_type": "0",
+    "display_policy": 0,
+    "conclu_refine_reason": "1101",
+    "aweme_type": 0,
+    "is_visitor_owner": false
+  },
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 763,
+    "followingCount": 9,
+    "heart": 26300,
+    "heartCount": 26300,
+    "videoCount": 1,
+    "diggCount": 131,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "duetEnabled": true,
+  "stitchEnabled": true,
+  "stickersOnItem": [],
+  "isAd": false,
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "diversificationLabels": [
+    "Video Games",
+    "Games",
+    "Entertainment"
+  ],
+  "locationCreated": "IQ",
+  "suggestedWords": [],
+  "contents": [
+    {
+      "desc": "A new anime game similar to buckshot Roulette is coming! I'm so excited! ",
+      "textExtra": []
+    },
+    {
+      "desc": "#buckshotroulette ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 0,
+          "end": 17,
+          "hashtagId": "7317825642412638251",
+          "hashtagName": "buckshotroulette",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    },
+    {
+      "desc": "#roulette ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 0,
+          "end": 9,
+          "hashtagId": "254599",
+          "hashtagName": "roulette",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    },
+    {
+      "desc": "#game ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 0,
+          "end": 5,
+          "hashtagId": "2006",
+          "hashtagName": "game",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    },
+    {
+      "desc": "#foryou ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 0,
+          "end": 7,
+          "hashtagId": "42164",
+          "hashtagName": "foryou",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    }
+  ],
+  "diversificationId": 10056,
+  "collected": false,
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "ShowAIGC": true,
+  "backendSourceEventTracking": "",
+  "CategoryType": 103,
+  "textLanguage": "en",
+  "textTranslatable": true,
+  "authorStatsV2": {
+    "followerCount": "763",
+    "followingCount": "9",
+    "heart": "26300",
+    "heartCount": "26300",
+    "videoCount": "1",
+    "diggCount": "131",
+    "friendCount": "0"
+  },
+  "isReviewing": false,
+  "creatorAIComment": {
+    "hasAITopic": false,
+    "categoryList": [],
+    "eligibleVideo": false,
+    "notEligibleReason": 101
+  },
+  "user": "k_arthur01",
+  "date": "2026-11-27T09:55:10",
+  "post_type": "video"
+}
