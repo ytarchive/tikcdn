@@ -1,0 +1,393 @@
+{
+  "id": "7706998048592956674",
+  "desc": "When moonshot released Kimi K3.1 pro, they actively stated it competes with Opus 5.5. Though when there was testing done to kimi k3.1 pro its behavior was extremely suspicious, it seemed to be heavily trained on benchmarks. The research paper link I’m about to talk about is included in the photo, it shows Kimis behavior. it was conducted by @JSchaeff3r on Twitter. This paper showed that Kimi k3.1 pro would actively not follow any slightly manipulated instructions in a prompt and actively ignore them, leading it to failing tasks outside of benchmarks. In its reasoning, Kimi often tries to figure out which benchmark it’s being tested for and it would recall its training and certain details that were supposed to help it do the task even though those details were not in a prompt. Benchmaxxing is when an AI is trained on benchmarks while lacking actual ability to do tasks in the real world, it seems apparent that kimis training was rough to the point where it actively ignores slightly changed instructions and follows whatever it remembers in its training without actually reasoning. This image has Kimi k3.1 pro drawn as an “anime” girl. #Ai #fyp #moonshot #china #claudeai ",
+  "createTime": "1794425322",
+  "scheduleTime": 0,
+  "video": {
+    "id": "7706998048592956674",
+    "height": 0,
+    "width": 0,
+    "duration": 0,
+    "ratio": "",
+    "cover": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/13186cdac4e94d33a0d431c79767e83f~tplv-photomode-image.jpeg?dr=9616&x-expires=1795960800&x-signature=2XGKjdz7czZMEylaOeY%2Fvy6sDVM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+    "originCover": "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/13186cdac4e94d33a0d431c79767e83f~tplv-photomode-image.jpeg?dr=9616&x-expires=1795960800&x-signature=2XGKjdz7czZMEylaOeY%2Fvy6sDVM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+    "dynamicCover": "",
+    "playAddr": "",
+    "downloadAddr": "",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": ""
+  },
+  "author": {
+    "id": "7668351969518470166",
+    "shortId": "",
+    "uniqueId": "kedr.bit",
+    "nickname": "Kedr.bit",
+    "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0f21de2969ec6273b0cda7fcfd6247a6~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=fb8f00ee&x-expires=1795960800&x-signature=sRTJS3rNEEZ0%2BVscxnT7XrFqc28%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0f21de2969ec6273b0cda7fcfd6247a6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=9c316c2e&x-expires=1795960800&x-signature=C2m9Qrf25AESz0Sv%2FVqhz9Sk2a8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0f21de2969ec6273b0cda7fcfd6247a6~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=3d64760b&x-expires=1795960800&x-signature=rKROM%2B8Z90DtyJ4bCR9nfiQTbj0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "signature": "I like text generative AI.\nNone of my posts are AI generated.\nAll of my characters are made by me.\nUsing my OCs? Credit me. Thatlev stole my art. X: @kedr_bit",
+    "createTime": 1785427374,
+    "verified": false,
+    "secUid": "MS4wLjABAAAAWqagc2wZ5mPlPFlCcbxpyKst-kAz4UgxW5xxOoUcVRVG7EWypCoMlx1PK1ZL--Zm",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 0,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false,
+    "UserStoryStatus": 0,
+    "shortDramaCreator": {}
+  },
+  "music": {
+    "id": "7623906685026913055",
+    "title": "original sound",
+    "playUrl": "https://v16m.tiktokcdn-us.com/d8b8f2752fefabe9baa561b81392c4b0/6b09e3b6/video/tos/useast8/tos-useast8-v-27dcd7-tx2/okAvjACcAQRXOgA2lDNVEEUuAxPjlzisM7Bia/?a=1233&bti=ODszNWYuMDE6&&bt=125&ft=GSDrKInz7Thhaq6VXq8Zmo&mime_type=audio_mpeg&rc=MzhnO3U5cm1yOjMzaTU8NEBpMzhnO3U5cm1yOjMzaTU8NEBrLjEzMmQ0cTNhLS1kMTJzYSNrLjEzMmQ0cTNhLS1kMTJzcw%3D%3D&vvpl=1&l=202611271410104EDB4EAF39B5C30F26F4&btag=e00078000",
+    "coverLarge": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/d1f8a0e799084cc58e1150629a50c6af~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=8373acf1&x-expires=1795960800&x-signature=d%2BLDVWnnzzUas7XxecJUNllOa8o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/d1f8a0e799084cc58e1150629a50c6af~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4aa3da04&x-expires=1795960800&x-signature=9Cs6gQp%2FgOrSyJ6srSAhH2%2Bnyag%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/d1f8a0e799084cc58e1150629a50c6af~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=56587290&x-expires=1795960800&x-signature=sFJEYPBziJZTKaXUZ1CVaq%2B2aP8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "authorName": "𝐂𝐘𝐂𝐋𝐑𝐂𝐇",
+    "original": true,
+    "private": false,
+    "duration": 20,
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 20.950188,
+      "preciseShootDuration": 20.950188,
+      "preciseAuditionDuration": 20.950188,
+      "preciseVideoDuration": 20.950188
+    },
+    "isCopyrighted": false,
+    "tt2dsp": {
+      "tt_to_dsp_song_infos": []
+    },
+    "is_unlimited_music": false,
+    "is_commerce_music": true,
+    "shoot_duration": 20
+  },
+  "challenges": [
+    {
+      "id": "183145",
+      "title": "ai",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "229207",
+      "title": "fyp",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "12713353",
+      "title": "moonshot",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "5873",
+      "title": "china",
+      "desc": "🇨🇳🇨🇳🇨🇳中国的童鞋们，记得在视频下标注#China 或者#中国，让全球的小伙伴都能发现你们哦🤗",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "7193402218987716614",
+      "title": "claudeai",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 1634,
+    "shareCount": 84,
+    "commentCount": 59,
+    "playCount": 18200,
+    "collectCount": "273"
+  },
+  "statsV2": {
+    "diggCount": "1634",
+    "shareCount": "84",
+    "commentCount": "59",
+    "playCount": "18200",
+    "collectCount": "273",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "start": 1149,
+      "end": 1152,
+      "hashtagId": "183145",
+      "hashtagName": "ai",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 1153,
+      "end": 1157,
+      "hashtagId": "229207",
+      "hashtagName": "fyp",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 1158,
+      "end": 1167,
+      "hashtagId": "12713353",
+      "hashtagName": "moonshot",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 1168,
+      "end": 1174,
+      "hashtagId": "5873",
+      "hashtagName": "china",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 1175,
+      "end": 1184,
+      "hashtagId": "7193402218987716614",
+      "hashtagName": "claudeai",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    }
+  ],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "isProhibited": false,
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 8430,
+    "followingCount": 0,
+    "heart": 329300,
+    "heartCount": 329300,
+    "videoCount": 53,
+    "diggCount": 477,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "stickersOnItem": [],
+  "isAd": false,
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "imagePost": {
+    "images": [
+      {
+        "imageURL": {
+          "urlList": [
+            "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/13186cdac4e94d33a0d431c79767e83f~tplv-photomode-image.jpeg?dr=9616&x-expires=1795960800&x-signature=2XGKjdz7czZMEylaOeY%2Fvy6sDVM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+            "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/13186cdac4e94d33a0d431c79767e83f~tplv-photomode-image.jpeg?dr=9616&x-expires=1795960800&x-signature=OMEOL%2B6iOD0%2BkqthdZ35I%2FOKngA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+          ]
+        },
+        "imageWidth": 2048,
+        "imageHeight": 2048
+      }
+    ],
+    "cover": {
+      "imageURL": {
+        "urlList": [
+          "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/13186cdac4e94d33a0d431c79767e83f~tplv-photomode-image.jpeg?dr=9616&x-expires=1795960800&x-signature=2XGKjdz7czZMEylaOeY%2Fvy6sDVM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+          "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/13186cdac4e94d33a0d431c79767e83f~tplv-photomode-image.jpeg?dr=9616&x-expires=1795960800&x-signature=OMEOL%2B6iOD0%2BkqthdZ35I%2FOKngA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+        ]
+      },
+      "imageWidth": 2048,
+      "imageHeight": 2048
+    },
+    "shareCover": {
+      "imageURL": {
+        "urlList": [
+          "https://p16-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/13186cdac4e94d33a0d431c79767e83f~tplv-photomode-image.jpeg?dr=9616&x-expires=1795960800&x-signature=2XGKjdz7czZMEylaOeY%2Fvy6sDVM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+          "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-i-photomode-no/13186cdac4e94d33a0d431c79767e83f~tplv-photomode-image.jpeg?dr=9616&x-expires=1795960800&x-signature=OMEOL%2B6iOD0%2BkqthdZ35I%2FOKngA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1"
+        ]
+      },
+      "imageWidth": 2048,
+      "imageHeight": 2048
+    },
+    "title": "Kimi k3.1 pro, the benchmax demon?"
+  },
+  "locationCreated": "CH",
+  "suggestedWords": [
+    "kimi",
+    "ai fighting",
+    "kimi warming his tires"
+  ],
+  "contents": [
+    {
+      "desc": "When moonshot released Kimi K3.1 pro, they actively stated it competes with Opus 5.5. Though when there was testing done to kimi k3.1 pro its behavior was extremely suspicious, it seemed to be heavily trained on benchmarks. The research paper link I’m about to talk about is included in the photo, it shows Kimis behavior. it was conducted by @JSchaeff3r on Twitter. This paper showed that Kimi k3.1 pro would actively not follow any slightly manipulated instructions in a prompt and actively ignore them, leading it to failing tasks outside of benchmarks. In its reasoning, Kimi often tries to figure out which benchmark it’s being tested for and it would recall its training and certain details that were supposed to help it do the task even though those details were not in a prompt. Benchmaxxing is when an AI is trained on benchmarks while lacking actual ability to do tasks in the real world, it seems apparent that kimis training was rough to the point where it actively ignores slightly changed instructions and follows whatever it remembers in its training without actually reasoning. This image has Kimi k3.1 pro drawn as an “anime” girl. #Ai #fyp #moonshot #china #claudeai ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 1149,
+          "end": 1152,
+          "hashtagId": "183145",
+          "hashtagName": "ai",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 1153,
+          "end": 1157,
+          "hashtagId": "229207",
+          "hashtagName": "fyp",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 1158,
+          "end": 1167,
+          "hashtagId": "12713353",
+          "hashtagName": "moonshot",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 1168,
+          "end": 1174,
+          "hashtagId": "5873",
+          "hashtagName": "china",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 1175,
+          "end": 1184,
+          "hashtagId": "7193402218987716614",
+          "hashtagName": "claudeai",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    }
+  ],
+  "collected": false,
+  "videoSuggestWordsList": {
+    "video_suggest_words_struct": [
+      {
+        "words": [
+          {
+            "word": "kimi",
+            "word_id": "5224277719152579296"
+          },
+          {
+            "word": "kimi k3 behavior analysis",
+            "word_id": "3928014545258010745"
+          }
+        ],
+        "scene": "comment_top",
+        "hint_text": "Search:"
+      },
+      {
+        "words": [
+          {
+            "word": "kimi",
+            "word_id": "5224277719152579296"
+          }
+        ],
+        "scene": "feed_bar",
+        "hint_text": "Search · "
+      }
+    ]
+  },
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "ShowAIGC": true,
+  "backendSourceEventTracking": "",
+  "CategoryType": 120,
+  "textLanguage": "en",
+  "textTranslatable": true,
+  "titleLanguage": "en",
+  "titleTranslatable": true,
+  "authorStatsV2": {
+    "followerCount": "8430",
+    "followingCount": "0",
+    "heart": "329300",
+    "heartCount": "329300",
+    "videoCount": "53",
+    "diggCount": "477",
+    "friendCount": "0"
+  },
+  "isReviewing": false,
+  "creatorAIComment": {
+    "hasAITopic": false,
+    "categoryList": [],
+    "eligibleVideo": false,
+    "notEligibleReason": 101
+  },
+  "user": "kedr.bit",
+  "date": "2026-11-11T19:28:42",
+  "post_type": "image"
+}
